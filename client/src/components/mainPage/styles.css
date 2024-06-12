@@ -1,0 +1,23 @@
+#container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  align-items: center;
+  gap: 10px;
+}
+
+#to-does-container {
+  display: flex;
+  gap: 20px;
+  width: 400px;
+}
+
+#add-toDo-btn {
+  width: 200px;
+  background-color: rgb(201, 187, 187);
+}
+
+#input::placeholder{
+  color: gray;
+  opacity: 0.5;
+}

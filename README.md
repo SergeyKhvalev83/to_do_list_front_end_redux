@@ -4,3 +4,4 @@
 # vite latest version as project builder
 # TS - front end
 # JS - back end
+# Axios for HTTP requests
